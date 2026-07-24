@@ -1,6 +1,13 @@
 <table align="center" width="100%">
 <tr>
-<td width="42%" align="center" valign="top">
+<td colspan="2">
+<p align="left">
+&nbsp;🔴 &nbsp;🟡 &nbsp;🟢 &nbsp;&nbsp;&nbsp;<code>baranberke@itu-station ~ developer-profile</code>
+</p>
+</td>
+</tr>
+<tr>
+<td width="42%" align="center" valign="middle">
 <img src="./ascii_portrait.png" width="100%" alt="Baran Berke - ASCII Portrait" />
 </td>
 <td width="58%" valign="top">
