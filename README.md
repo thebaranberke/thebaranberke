@@ -1,27 +1,27 @@
 <table align="center" width="100%">
 <tr>
-<td width="40%" align="center" valign="top">
-<img src="./ascii_portrait.jpg" width="100%" alt="Baran Berke - ASCII Portrait" />
+<td width="42%" align="center" valign="top">
+<img src="./ascii_portrait.png" width="100%" alt="Baran Berke - ASCII Portrait" />
 </td>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 <h2>Baran Berke 👋</h2>
-<p>🎓 <b>ITU - Electronics and Communication Engineer</b><br/>
+<p>🎓 <b>ITU - Electronics & Communication Engineer</b><br/>
 🚀 <b>Founder of Lanus Studio</b> | <b>AI Engineer & AI Security</b> | <b>Cybersecurity</b> | <b>Creator</b></p>
 
 <hr/>
 
-<h3>📍 Bilgiler</h3>
+<h3>📍 About Me</h3>
 <ul>
-<li>🏛️ <b>Üniversite / Konum:</b> Istanbul Technical University (İTÜ)</li>
-<li>🏢 <b>Girişim:</b> Founder of Lanus Studio</li>
-<li>💼 <b>Uzmanlık:</b> AI Engineer & AI Security, Cybersecurity, Creator</li>
-<li>🎯 <b>Odak Alanları:</b> AI, Machine Learning, Cybersecurity, Data Analyst</li>
+<li>🏛️ <b>University / Location:</b> Istanbul Technical University (İTÜ)</li>
+<li>🏢 <b>Venture:</b> Founder of Lanus Studio</li>
+<li>💼 <b>Specialization:</b> AI Engineer & AI Security, Cybersecurity, Creator</li>
+<li>🎯 <b>Focus Areas:</b> AI, Machine Learning, Cybersecurity, Data Analysis</li>
 </ul>
 
 <hr/>
 
-<h3>🛠️ Teknolojiler & Araçlar</h3>
+<h3>🛠️ Tech Stack & Tools</h3>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -41,7 +41,7 @@
 
 <hr/>
 
-<h3>📫 İletişim</h3>
+<h3>📫 Connect</h3>
 <p>
 <a href="https://linkedin.com/in/thebaranberke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -52,13 +52,13 @@
 
 ---
 
-## 📊 GitHub Analizleri
+## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/thebaranberke">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thebaranberke&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=7c3aed" alt="thebaranberke GitHub Stats" />
   </a>
   <a href="https://github.com/thebaranberke">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebaranberke&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8" alt="En Çok Kullanılan Diller" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebaranberke&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" />
   </a>
 </div>
