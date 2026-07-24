@@ -1,53 +1,53 @@
-<!-- GitHub Profile README with Side-by-Side ASCII Art Image & Profile Info -->
-
 <table align="center" width="100%">
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <img src="./ascii_portrait.jpg" width="100%" alt="Baran Berke - ASCII Portrait"/>
-    </td>
-    <td width="58%" valign="top">
-      <h1>Baran Berke 👋</h1>
-      <p>🎓 <b>ITU - Electronics and Communication Engineer</b></p>
-      <p>🚀 <b>Founder of Lanus Studio</b> | <b>AI Engineer & AI Security</b> | <b>Cybersecurity</b> | <b>Creator</b></p>
+<tr>
+<td width="40%" align="center" valign="top">
+<img src="./ascii_portrait.jpg" width="100%" alt="Baran Berke - ASCII Portrait" />
+</td>
+<td width="60%" valign="top">
 
-      <hr/>
+<h2>Baran Berke 👋</h2>
+<p>🎓 <b>ITU - Electronics and Communication Engineer</b><br/>
+🚀 <b>Founder of Lanus Studio</b> | <b>AI Engineer & AI Security</b> | <b>Cybersecurity</b> | <b>Creator</b></p>
 
-      <h3>📍 Bilgiler</h3>
-      <ul>
-        <li>🏛️ <b>Üniversite / Konum:</b> Istanbul Technical University (İTÜ)</li>
-        <li>🏢 <b>Girişim:</b> Founder of Lanus Studio</li>
-        <li>💼 <b>Uzmanlık:</b> AI Engineer & AI Security, Cybersecurity, Creator</li>
-        <li>🎯 <b>Odak Alanları:</b> AI, Machine Learning, Cybersecurity, Data Analyst</li>
-      </ul>
+<hr/>
 
-      <hr/>
+<h3>📍 Bilgiler</h3>
+<ul>
+<li>🏛️ <b>Üniversite / Konum:</b> Istanbul Technical University (İTÜ)</li>
+<li>🏢 <b>Girişim:</b> Founder of Lanus Studio</li>
+<li>💼 <b>Uzmanlık:</b> AI Engineer & AI Security, Cybersecurity, Creator</li>
+<li>🎯 <b>Odak Alanları:</b> AI, Machine Learning, Cybersecurity, Data Analyst</li>
+</ul>
 
-      <h3>🛠️ Teknolojiler & Araçlar</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-        <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=linux&logoColor=white" alt="Cybersecurity"/>
-        <br/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-        <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat"/>
-        <br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      </p>
+<hr/>
 
-      <hr/>
+<h3>🛠️ Teknolojiler & Araçlar</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=linux&logoColor=white" alt="Cybersecurity"/>
+<br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-      <h3>📫 İletişim</h3>
-      <p>
-        <a href="https://linkedin.com/in/thebaranberke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
+<hr/>
+
+<h3>📫 İletişim</h3>
+<p>
+<a href="https://linkedin.com/in/thebaranberke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
